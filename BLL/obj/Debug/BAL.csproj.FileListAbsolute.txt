@@ -1,0 +1,9 @@
+E:\TermPaperTask\BLL\bin\Debug\BLL.exe.config
+E:\TermPaperTask\BLL\bin\Debug\BLL.exe
+E:\TermPaperTask\BLL\bin\Debug\BLL.pdb
+E:\TermPaperTask\BLL\obj\Debug\BLL.Properties.Resources.resources
+E:\TermPaperTask\BLL\obj\Debug\BAL.csproj.GenerateResource.cache
+E:\TermPaperTask\BLL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+E:\TermPaperTask\BLL\obj\Debug\BLL.exe
+E:\TermPaperTask\BLL\obj\Debug\BLL.pdb
+E:\TermPaperTask\BLL\obj\Debug\BAL.csproj.AssemblyReference.cache
