@@ -1,0 +1,14 @@
+E:\TermPaperTask\DAL\bin\Debug\studentsdb.mdf
+E:\TermPaperTask\DAL\bin\Debug\studentsdb_log.ldf
+E:\TermPaperTask\DAL\bin\Debug\DAL.exe.config
+E:\TermPaperTask\DAL\bin\Debug\DAL.exe
+E:\TermPaperTask\DAL\bin\Debug\DAL.pdb
+E:\TermPaperTask\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\TermPaperTask\DAL\obj\Debug\DAL.Properties.Resources.resources
+E:\TermPaperTask\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\TermPaperTask\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\TermPaperTask\DAL\obj\Debug\DAL.exe
+E:\TermPaperTask\DAL\obj\Debug\DAL.pdb
+E:\TermPaperTask\DAL\bin\Debug\BLL.exe
+E:\TermPaperTask\DAL\bin\Debug\BLL.pdb
+E:\TermPaperTask\DAL\bin\Debug\BLL.exe.config
